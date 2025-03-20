@@ -1,4 +1,6 @@
 # SmartStat - API-Driven Average Calculator Microservice
+<img width="1388" alt="Screenshot 2025-03-20 at 7 41 44 PM" src="https://github.com/user-attachments/assets/b2b08388-3acb-4ed6-a3ba-c73a0fea0c24" />
+<img width="1388" alt="Screenshot 2025-03-20 at 7 41 54 PM" src="https://github.com/user-attachments/assets/fbcf3c12-8128-4327-a145-a8d8738a8adc" />
 
 
 ## 📋 What is SmartStat?
