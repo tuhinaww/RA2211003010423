@@ -78,13 +78,12 @@ function App() {
             <div className="inline-flex items-center gap-3 mb-4">
               <Calculator className="w-12 h-12 text-cyan-400 dark:text-cyan-400" />
               <h1 className="text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-violet-400">
-                Average Calculator
+              SmartStat
               </h1>
               <Sparkles className="w-8 h-8 text-violet-400" />
             </div>
             <p className="text-lg text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
-              Experience the power of real-time average calculations with our sophisticated calculator. 
-              Choose from different number types and watch the magic happen.
+            A high-performance microservice that computes the moving average of numbers retrieved from an external API.
             </p>
           </div>
 
